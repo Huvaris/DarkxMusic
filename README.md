@@ -2,12 +2,12 @@
 
 ### 𝐃𝐚𝐫𝐤 ✘ 𝐌𝐮𝐬𝐢𝐜 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://telegra.ph/file/30868ddf51d5599e8c777.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/SECRETLAND_XD"><img src="https://telegra.ph/file/30868ddf51d5599e8c777.jpg" width="300"></a></p>
 
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/World_FriendShip_Zone"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/SECRETLAND_XD"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 
 ### ᴄᴏᴍᴍᴀɴᴅs 🛠
 #### ғᴏʀ ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ɢʀᴏᴜᴘ
@@ -25,7 +25,7 @@
 
 # ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
 
-[![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Sumit9969/Pyrogram-String-Genrator)
+[![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/Huvaris/Pyrogram-String-Genrator)
 
 
 ### Deploy To Heroku
