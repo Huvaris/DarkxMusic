@@ -40,8 +40,8 @@ async def start_(client: Client, message: Message):
 𝘽𝙤𝙩 𝙁𝙤𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨 ...
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ ⚡𝗖𝗵𝗮𝗻𝗻𝗲𝗹⚡ : [𝗧𝗵𝗲 𝗦𝘂𝗽𝗲𝗿𝗶𝗼𝘂𝗿 𝗡𝗲𝘁𝘄𝗼𝗿𝗸](https://t.me/The_Superiour_Network)
-┣★ ⚡𝗦𝘂𝗽𝗽𝗼𝗿𝘁⚡ : [𝗪𝗼𝗿𝗹𝗱 𝗙𝗿𝗶𝗲𝗻𝗱𝗦𝗵𝗶𝗽 𝗭𝗼𝗻𝗲](https://t.me/World_FriendShip_Zone)
-┣★ ⚡𝗢𝘄𝗻𝗲𝗿⚡   : [𝗦𝘂𝗺𝗶𝘁 𝗬𝗮𝗱𝗮𝘃](https://t.me/Simple_Mundaa)
+┣★ ⚡𝗦𝘂𝗽𝗽𝗼𝗿𝘁⚡ : [𝐒𝐄𝐂𝐑𝐄𝐓𝐋𝐀𝐍𝐃_𝐗𝐃](https://t.me/SECRETLAND_XD)
+┣★ ⚡𝗢𝘄𝗻𝗲𝗿⚡   : [𝐘𝐚𝐬𝐡 𝐑𝐚𝐣](https://t.me/give_up_to_god)
 ┗━━━━━━━━━━━━━━━━━┛
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
@@ -56,7 +56,7 @@ async def start_(client: Client, message: Message):
     )
     
     
-@Client.on_message(commandpro(["/start", "/alive", "Sumit"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["/start", "/alive", "Yash"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/30868ddf51d5599e8c777.jpg",
@@ -65,14 +65,14 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⚡𝗦𝘂𝗽𝗽𝗼𝗿𝘁⚡", url=f"https://t.me/World_FriendShip_Zone")
+                        "⚡𝗦𝘂𝗽𝗽𝗼𝗿𝘁⚡", url=f"https://t.me/SECRETLAND_XD")
                 ]
             ]
         ),
     )
 
 
-@Client.on_message(commandpro(["DarkxMusic","Sumit", "#Channel", "@Channel", "/Channel", "Channel"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["DarkxMusic","Yash", "#Channel", "@Channel", "/Channel", "Channel"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/65be304b45005b8bd84db.jpg",
